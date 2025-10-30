@@ -11,8 +11,7 @@ export default function AddCategoryPage() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    const token = localStorage.getItem("token");
-    if (!token) router.push("/admin/login");
+    
   }, []);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
