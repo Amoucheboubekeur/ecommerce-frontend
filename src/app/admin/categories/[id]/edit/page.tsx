@@ -16,10 +16,7 @@ export default function EditCategoryPage() {
 
   useEffect(() => {
     const token = localStorage.getItem("token");
-    if (!token) {
-      router.push("/admin/login");
-      return;
-    }
+  
     loadCategory();
   }, []);
 
