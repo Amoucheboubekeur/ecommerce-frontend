@@ -15,8 +15,6 @@ export default function EditCategoryPage() {
   const [saving, setSaving] = useState(false);
 
   useEffect(() => {
-    const token = localStorage.getItem("token");
-  
     loadCategory();
   }, []);
 
