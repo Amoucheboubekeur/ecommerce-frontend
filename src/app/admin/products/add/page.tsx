@@ -40,8 +40,7 @@ export default function CreateProductPage() {
 
   // Charger les catégories
   useEffect(() => {
-    const token = localStorage.getItem("token");
-    if (!token) router.push("/admin/login");
+    
     loadCategories();
   }, []);
 
