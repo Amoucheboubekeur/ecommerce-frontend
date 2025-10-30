@@ -1,0 +1,655 @@
+[
+  {
+    "name": "Adrar",
+    "code": 1,
+    "communes": [
+      "Adrar", "Zaouiet Kounta", "Aoulef", "Timokten", "Reggane", "In Zghmir", 
+      "Tit", "Tsabit", "Timiaouine", "Ouled Ahmed Timmi", "Bouda", "Fenoughil"
+    ]
+  },
+  {
+    "name": "Chlef",
+    "code": 2,
+    "communes": [
+      "Chlef", "Ténès", "Beni Haoua", "El Karimia", "Tadjna", "Taougrite", 
+      "Beni Rached", "Oued Fodda", "Ouled Fares", "Bouzghaia", "Breira", 
+      "Beni Bouateb", "Herenfa", "Oued Goussine", "Sobha"
+    ]
+  },
+  {
+    "name": "Laghouat",
+    "code": 3,
+    "communes": [
+      "Laghouat", "Ksar El Hirane", "Benacer Ben Chohra", "Sidi Makhlouf", 
+      "Tadjemout", "Aïn Madhi", "Brida", "El Ghicha", "Hadj Mechri", 
+      "El Assafia", "Oued Morra", "Sidi Bouzid", "Tadjrouna", "Taouiala"
+    ]
+  },
+  {
+    "name": "Oum El Bouaghi",
+    "code": 4,
+    "communes": [
+      "Oum El Bouaghi", "Aïn Béïda", "Ksar Sbahi", "F'Kirina", "Ouled Hamla", 
+      "Aïn Babouche", "Berriche", "El Belala", "El Amiria", "El Djazia", 
+      "El Fedjoudj", "Hanchir Toumghani", "Rahia", "Sigus", "Zorg"
+    ]
+  },
+  {
+    "name": "Batna",
+    "code": 5,
+    "communes": [
+      "Batna", "Barika", "Merouana", "Ras El Aioun", "Tazoult", "Arris", 
+      "N'Gaous", "Ouled Si Slimane", "Timgad", "Aïn Djasser", "Aïn Touta", 
+      "Bouzina", "Chemora", "Djezar", "Fesdis", "Ghassira", "Hidoussa", 
+      "Ichmoul", "Menaa", "Oued Chaaba", "Oued El Ma", "Rahbat", "Seriana", 
+      "T'Kout", "Taxlent", "Theniet El Abed", "Lazrou", "Boulhilat"
+    ]
+  },
+  {
+    "name": "Béjaïa",
+    "code": 6,
+    "communes": [
+      "Béjaïa", "Akbou", "Seddouk", "Tichy", "Amizour", "Feraoun", 
+      "Kherrata", "Darguina", "Sidi Aïch", "Adekar", "Aït R'zine", 
+      "Aït Smail", "Akfadou", "Amalou", "Aokas", "Barbacha", "Beni Djellil", 
+      "Beni Ksila", "Boudjellil", "Bouhamza", "Chemini", "Djemaa", 
+      "El Kseur", "Ifri", "Ighil Ali", "Kendira", "Leflaye", "M'Cisna", 
+      "Melbou", "Oued Ghir", "Ouzellaguen", "Semaoun", "Sidi Ayad", 
+      "Souk El Tenine", "Tamridjet", "Taourirt", "Tazmalt", "Tibane", 
+      "Tichy", "Timezrit", "Tinebdar", "Tizi N'Berber", "Toudja"
+    ]
+  },
+  {
+    "name": "Biskra",
+    "code": 7,
+    "communes": [
+      "Biskra", "El Kantara", "Sidi Okba", "Ourlal", "Djemorah", "M'Lili", 
+      "Zeribet El Oued", "Tolga", "Branis", "Aïn Naga", "Aïn Zaatout", 
+      "Bordj Ben Azzouz", "Chetma", "El Feidh", "El Hadjab", "El Haouch", 
+      "Foughala", "Khenguet Sidi Nadji", "Lichana", "Lioua", "M'Chouneche", 
+      "Mekhadma", "Oumache", "Ourlal", "Ras El Miad", "Sidi Khaled"
+    ]
+  },
+  {
+    "name": "Béchar",
+    "code": 8,
+    "communes": [
+      "Béchar", "Béni Abbès", "Kerzaz", "Taghit", "Abadla", "Beni Ounif", 
+      "Mogheul", "Lahmar", "Erg Ferradj", "Timoudi"
+    ]
+  },
+  {
+    "name": "Blida",
+    "code": 9,
+    "communes": [
+      "Blida", "Boufarik", "Bouinan", "Oued El Alleug", "Mouzaia", "Bougara", 
+      "Guerrouaou", "Beni Tamou", "Souhane", "Beni Mered", "Chiffa", 
+      "Chréa", "El Affroun", "Hammam Melouane", "Larbaa", "Ouled Yaich", 
+      "Soumaa"
+    ]
+  },
+  {
+    "name": "Bouira",
+    "code": 10,
+    "communes": [
+      "Bouira", "Sour El Ghozlane", "Lakhdaria", "Haizer", "M'Chedellah", 
+      "Dirrah", "Aïn Bessem", "Bordj Okhriss", "Aïn El Hadjar", "Ahl El Ksar", 
+      "Aïn Turk", "Ath Mansour", "Bechloul", "Bordj Oukhriss", "Bouderbala", 
+      "Boukram", "Chorfa", "Dechmia", "Dirah", "El Adjiba", "El Asnam", 
+      "El Hachimia", "El Khabouzia", "Ghdir", "Guerrouma", "Hadjera Zerga", 
+      "Kadiria", "Lakhdaria", "M'Chedallah", "Maala", "Maamora", "Oued El Berdi", 
+      "Ouled Rached", "Raouraoua", "Ridane", "Saharidj", "Souk El Khemis", 
+      "Taguedite", "Z'barbar"
+    ]
+  },
+  {
+    "name": "Tamanrasset",
+    "code": 11,
+    "communes": [
+      "Tamanrasset", "In Amguel", "In Guezzam", "Tazrouk", "Idles", 
+      "Tin Zaouatine", "Aïn Amguel", "Aïn Salah"
+    ]
+  },
+  {
+    "name": "Tébessa",
+    "code": 12,
+    "communes": [
+      "Tébessa", "Bir El Ater", "Cheria", "Stah Guentis", "El Kouif", 
+      "Morsott", "Negrine", "Bir Mokkadem", "Aïn Zerga", "Bekkaria", 
+      "Boulhaf", "El Ma Labiodh", "El Meridj", "El Ogla", "Ferkane", 
+      "Guorriguer", "Hammamet", "Morsott", "Ouenza", "Oum Ali", 
+      "Saf Saf", "Souk Ahras", "Thlidjene"
+    ]
+  },
+  {
+    "name": "Tlemcen",
+    "code": 13,
+    "communes": [
+      "Tlemcen", "Maghnia", "Hennaya", "Remchi", "Sebdou", "Beni Snous", 
+      "Aïn Tallout", "Ouled Mimoun", "Aïn Fezza", "Aïn Ghoraba", 
+      "Aïn Kebira", "Aïn Nehala", "Aïn Youcef", "Amieur", "Azails", 
+      "Bab El Assa", "Bensekrane", "Beni Bahdel", "Beni Boussaid", 
+      "Beni Mester", "Beni Ouarsous", "Beni Smiel", "Bouhlou", 
+      "Chetouane", "El Aricha", "El Bouihi", "El Fehoul", "El Gor", 
+      "Hammam Boughrara", "Hennaya", "Honaïne", "Mansourah", 
+      "Marsa Ben M'Hidi", "Nedroma", "Oued Chouly", "Ouled Riyah", 
+      "Sabra", "Sebaa Chioukh", "Sidi Abdelli", "Sidi Medjahed", 
+      "Souahlia", "Souani", "Terny", "Tiaret", "Zenata"
+    ]
+  },
+  {
+    "name": "Tiaret",
+    "code": 14,
+    "communes": [
+      "Tiaret", "Frenda", "Aïn Deheb", "Medroussa", "Mahdia", "Sougueur", 
+      "Takhemaret", "Ksar Chellala", "Aïn Bouchekif", "Aïn El Hadid", 
+      "Aïn Kermes", "Dahmouni", "Guertoufa", "Mechraa Sfa", "Medrissa", 
+      "Meghila", "Mellakou", "Nadorah", "Oued Lili", "Rahouia", 
+      "Rechaiga", "Sebaine", "Serghine", "Si Abdelghani", "Sidi Abderrahmane", 
+      "Sidi Ali Mellal", "Sidi Bakhti", "Sidi Hosni", "Tousnina", 
+      "Zmalet El Emir Abdelkader"
+    ]
+  },
+  {
+    "name": "Tizi Ouzou",
+    "code": 15,
+    "communes": [
+      "Tizi Ouzou", "Azazga", "Aïn El Hammam", "Draâ Ben Khedda", 
+      "Maatkas", "Boghni", "Ouacif", "Freha", "Tigzirt", "Aït Aïssa Mimoun", 
+      "Aït Bouaddou", "Aït Chafâa", "Aït Khellili", "Aït Mahmoud", 
+      "Aït Oumalou", "Aït Yahia", "Aït Yahia Moussa", "Akbil", "Assi Youcef", 
+      "Azazga", "Beni Aïssi", "Beni Douala", "Beni Yenni", "Boudjima", 
+      "Bounouh", "Bouzeguene", "Draâ Ben Khedda", "Draâ El Mizan", 
+      "Freha", "Frikat", "Iboudrarene", "Idjeur", "Iferhounène", 
+      "Ifigha", "Iflissen", "Illilten", "Imsouhal", "Irdjen", 
+      "Larbaâ Nath Irathen", "M'Kira", "Maatkas", "Makouda", "Mechtras", 
+      "Mekla", "Mizrana", "Ouacif", "Ouadhia", "Ouaguenoun", "Sidi Naâmane", 
+      "Souamaâ", "Souk El Thenine", "Tadmaït", "Tigzirt", "Timizart", 
+      "Tirmitine", "Tizi Gheniff", "Tizi N'Tleta", "Tizi Rached", 
+      "Yakourene", "Zekri"
+    ]
+  },
+  {
+    "name": "Alger",
+    "code": 16,
+    "communes": [
+      "Alger-Centre", "Sidi M'Hamed", "El Madania", "El Mouradia", 
+      "Bab El Oued", "Bologhine", "Casbah", "Oued Koriche", "Bir Mourad Raïs", 
+      "El Biar", "Bouzareah", "Birkhadem", "Dély Ibrahim", "Hussein Dey", 
+      "Kouba", "Hydra", "Mohammadia", "El Harrach", "Baraki", "Oued Smar", 
+      "Bourouba", "Dar El Beïda", "Rouïba", "Baba Hassen", "Douéra", 
+      "Draria", "Ben Aknoun", "Les Eucalyptus", "Bachdjerrah", "El Magharia", 
+      "Beni Messous", "Bordj El Bahri", "Bordj El Kiffan", "El Marsa", 
+      "Aïn Bénian", "Raïs Hamidou", "Staoueli", "Zéralda", "Mahelma", 
+      "Souidania", "Cheraga", "Ouled Chebel", "Tessala El Merdja", 
+      "Mouradia", "Khraicia"
+    ]
+  },
+  {
+    "name": "Djelfa",
+    "code": 17,
+    "communes": [
+      "Djelfa", "Aïn Oussera", "Hassi Bahbah", "Messaâd", "Sed Rahal", 
+      "Dar Chioukh", "El Guedid", "Guettara", "Aïn Chouhada", "Aïn El Ibel", 
+      "Aïn Feka", "Amourah", "Beni Yagoub", "Birine", "Bouira Lahdab", 
+      "Charef", "Didouche Mourad", "Douis", "El Guedid", "Faidh El Botma", 
+      "Guernini", "Hassi Bahbah", "Hassi El Euch", "Hassi Fedoul", 
+      "M'liliha", "Messaad", "Moudjebara", "Oum Laadham", "Sed Rahal", 
+      "Selmana", "Sidi Baizid", "Sidi Ladjel", "Tadmit", "Zaafrane", 
+      "Zaccar"
+    ]
+  },
+  {
+    "name": "Jijel",
+    "code": 18,
+    "communes": [
+      "Jijel", "El Aouana", "Ziama Mansouriah", "Taher", "Emir Abdelkader", 
+      "Chekfa", "El Milia", "Sidi Maarouf", "Aïn El Berda", "Bordj T'har", 
+      "Boudria Beni Yadjis", "Bouraoui Belhadef", "Chahna", "Djemaa Beni Habibi", 
+      "Erraguene", "Ghebala", "Jijel", "Kaous", "Kheiri", "Oudjana", 
+      "Ouled Rabah", "Ouled Yahia Khadrouch", "Selma Benziada", "Setti", 
+      "Sidi Abdelaziz", "Sidi Marouf", "Texenna", "Ziama Mansouriah"
+    ]
+  },
+  {
+    "name": "Sétif",
+    "code": 19,
+    "communes": [
+      "Sétif", "El Eulma", "Aïn Arnat", "Aïn Azel", "Aïn Oulmene", 
+      "Amoucha", "Babor", "Bougaâ", "Guidjel", "Hammam Soukhna", 
+      "Hammam Guergour", "Aïn Abessa", "Aïn El Kebira", "Aïn Lahdjar", 
+      "Aïn Roua", "Aïn Sebt", "Amoucha", "Babor", "Bazer Sakhra", 
+      "Beidha Bordj", "Belaa", "Beni Aziz", "Beni Chebana", "Beni Fouda", 
+      "Beni Hocine", "Beni Ourtilane", "Bir Haddada", "Bouandas", 
+      "Bougaa", "Bousselam", "Dehamcha", "Djemila", "Draa Kebila", 
+      "El Ouricia", "Guelta Zerka", "Guenzet", "Guidjel", "Hamma", 
+      "Harbil", "Ksar El Abtal", "Maaouia", "Maoklane", "Mezloug", 
+      "Ouled Addouane", "Ouled Sabor", "Ouled Si Ahmed", "Ouled Tebben", 
+      "Rasfa", "Salah Bey", "Serdj El Ghoul", "Tachouda", "Talaifacene", 
+      "Taya", "Tella", "Tizi N'Bechar"
+    ]
+  },
+  {
+    "name": "Saïda",
+    "code": 20,
+    "communes": [
+      "Saïda", "Youb", "Sidi Boubekeur", "El Hassasna", "Ouled Brahim", 
+      "Maamora", "Aïn El Hadjar", "Aïn Soltane", "Doui Thabet", 
+      "El Hassasna", "Hounet", "Moulay Larbi", "Ouled Khaled", 
+      "Sidi Ahmed", "Sidi Amar", "Tircine", "Youb"
+    ]
+  },
+  {
+    "name": "Skikda",
+    "code": 21,
+    "communes": [
+      "Skikda", "Azzaba", "El Harrouch", "Ben Azzouz", "Collo", 
+      "Tamalous", "Ouled Attia", "Ramdane Djamel", "Aïn Bouziane", 
+      "Aïn Charchar", "Aïn Kechra", "Aïn Zouit", "Beni Bachir", 
+      "Beni Bechir", "Beni Oulbane", "Beni Zid", "Bin El Ouiden", 
+      "Bouchetata", "Cheraia", "Djendel Saadi Mohamed", "El Ghedir", 
+      "El Hadaiek", "El Marsa", "Emdjez Edchich", "Es Sebt", "Filfila", 
+      "Hamadi Krouma", "Kanoua", "Kerkara", "Kheneg Mayoum", "Ouled Attia", 
+      "Ouled Habbaba", "Oum Toub", "Ramdane Djamel", "Salah Bouchaour", 
+      "Sidi Mezghiche", "Slimane", "Tamalous", "Zerdazas", "Zitouna"
+    ]
+  },
+  {
+    "name": "Sidi Bel Abbès",
+    "code": 22,
+    "communes": [
+      "Sidi Bel Abbès", "Tessala", "Ben Badis", "Marhoum", "Télagh", 
+      "Tenira", "Ras El Ma", "Sfisef", "Aïn Adden", "Aïn El Berd", 
+      "Aïn Tindamine", "Amarnas", "Badredine El Mokrani", "Belarbi", 
+      "Benachiba Chelia", "Bir El Hammam", "Boudjebaa El Bordj", 
+      "Bouhanifia", "Chetouane Belaila", "Dhaya", "El Hacaiba", 
+      "Hassi Dahou", "Hassi Zahana", "Lamtar", "Makedra", "Moulay Slissen", 
+      "Oued Sebaa", "Oued Sefioun", "Oued Taourira", "Ras El Ma", 
+      "Redjem Demouche", "Sehala Thaoura", "Sidi Ali Benyoub", 
+      "Sidi Ali Boussidi", "Sidi Brahim", "Sidi Chaib", "Sidi Dahou", 
+      "Sidi Hamadouche", "Sidi Khaled", "Sidi Yacoub", "Tabia", 
+      "Tafissour", "Teghenif", "Tenira", "Tessala", "Zerouala"
+    ]
+  },
+  {
+    "name": "Annaba",
+    "code": 23,
+    "communes": [
+      "Annaba", "El Bouni", "El Hadjar", "Berrahel", "Seraïdi", 
+      "Aïn Berda", "Cheurfa", "Treat", "Annaba", "Berrahel", 
+      "El Bouni", "El Hadjar", "Sidi Amar", "Aïn Berda", "Cheurfa", 
+      "Oued El Aneb", "Seraidi", "Treat"
+    ]
+  },
+  {
+    "name": "Guelma",
+    "code": 24,
+    "communes": [
+      "Guelma", "Héliopolis", "Aïn Makhlouf", "Bouchegouf", "Oued Zenati", 
+      "Ras El Agba", "Nechmaya", "Khezaras", "Aïn Ben Beida", 
+      "Aïn Reggada", "Aïn Sandel", "Belkheir", "Ben Djarah", 
+      "Beni Mezline", "Bordj Sabat", "Bou Hachana", "Bou Hamdane", 
+      "Bouati Mahmoud", "Bouchegouf", "Boumahra Ahmed", "Dahouara", 
+      "Djeballah Khemissi", "El Fedjoudj", "Guelaat Bousbaa", 
+      "Guelma", "Hammam Debagh", "Hammam Maskhoutine", "Hammam N'Bails", 
+      "Héliopolis", "Khezaras", "Medjez Amar", "Medjez Sfa", 
+      "Nechmaya", "Oued Cheham", "Oued Fragha", "Oued Zenati", 
+      "Ras El Agba", "Roknia", "Sellaoua Announa", "Tamlouka"
+    ]
+  },
+  {
+    "name": "Constantine",
+    "code": 25,
+    "communes": [
+      "Constantine", "Zighoud Youcef", "Ibn Ziad", "Didouche Mourad", 
+      "El Khroub", "Aïn Abid", "Beni Hamiden", "Hamma Bouziane", 
+      "Aïn Smara", "Ben Badis", "Bir El Arch", "Boumerdes", "Didouche Mourad", 
+      "El Khroub", "Hamma Bouziane", "Ibn Ziad", "Mesaoud Boudjeriou", 
+      "Ouled Rahmoun", "Zighoud Youcef"
+    ]
+  },
+  {
+    "name": "Médéa",
+    "code": 26,
+    "communes": [
+      "Médéa", "Berrouaghia", "Ksar El Boukhari", "Aïn Boucif", 
+      "El Omaria", "Seghouane", "Tletat Ed Douair", "Cheniguel", 
+      "Aïn Boucif", "Aïn Ou Ksir", "Aziz", "Baata", "Benchicao", 
+      "Beni Slimane", "Berrouaghia", "Boghar", "Bou Aiche", "Bouaichoune", 
+      "Bouchrahil", "Chabounia", "Chellalat El Adhaoura", "Cheniguel", 
+      "Derrag", "Deux Bassins", "Djouab", "El Azizia", "El Guelbelkebir", 
+      "El Hamdania", "El Omaria", "El Ouinet", "Hannacha", "Kef Lakhdar", 
+      "Khams Djouamaa", "Ksar El Boukhari", "Medjebar", "Medea", 
+      "Mezerana", "Mihoub", "Oued Harbil", "Ouled Antar", "Ouled Bouachra", 
+      "Ouled Deid", "Ouled Hellal", "Oum El Djalil", "Rebaia", 
+      "Saneg", "Sedraia", "Seghouane", "Sidi Demed", "Sidi Naamane", 
+      "Sidi Zahar", "Sidi Ziane", "Souagui", "Tablat", "Tafraout", 
+      "Tamesguida", "Tizi Mahdi", "Tlatet Ed Douair", "Zoubiria"
+    ]
+  },
+  {
+    "name": "Mostaganem",
+    "code": 27,
+    "communes": [
+      "Mostaganem", "Mazagran", "Sidi Ali", "Aïn Tedeles", "Sour", 
+      "Hassi Mameche", "Kheir Eddine", "Safsaf", "Aïn Boudinar", 
+      "Aïn Nouissy", "Aïn Sidi Cherif", "Aïn Tadeles", "Benabdelmalek Ramdane", 
+      "Bir El Djir", "Bouguirat", "Fornaka", "Hadjadj", "Hassi Mameche", 
+      "Kheir Eddine", "Mansourah", "Marsat Ben M'Hidi", "Mazagran", 
+      "Mesra", "Mostaganem", "Nekmaria", "Oued El Kheir", "Ouled Boughalem", 
+      "Ouled Maallah", "Saf Saf", "Sayada", "Sidi Ali", "Sidi Belattar", 
+      "Sidi Lakhdar", "Souaflia", "Sour", "Stidia", "Tazgait", 
+      "Touahria"
+    ]
+  },
+  {
+    "name": "M'Sila",
+    "code": 28,
+    "communes": [
+      "M'Sila", "Bou Saâda", "Magra", "Sidi Aïssa", "Aïn El Melh", 
+      "Ouled Derradj", "Mohamed Boudiaf", "Chellal", "Aïn El Hadjel", 
+      "Aïn Fares", "Aïn Khadra", "Belaiba", "Ben Srour", "Berhoum", 
+      "Bir Foda", "Bou Saada", "Chellal", "Dehahna", "Djebel Messaad", 
+      "El Hamel", "El Houamed", "Hammam Dhalaa", "Khettouti Sed El Jou",
+      "Khoubana", "Maadid", "Magra", "M'Cif", "M'Sila", "M'Tarfa",
+      "Ouanougha", "Ouled Addi Guebala", "Ouled Derradj", "Ouled Madhi",
+      "Ouled Mansour", "Ouled Sidi Brahim", "Sidi Aïssa", "Sidi Ameur",
+      "Sidi Hadjeres", "Slim", "Souamaa", "Tamsa", "Zarzour"
+    ]
+  },
+  {
+    "name": "Mascara",
+    "code": 29,
+    "communes": [
+      "Mascara", "Mohammadia", "Sig", "Bou Hanifia", "Oued El Abtal",
+      "Aïn Fares", "Aïn Fekan", "Aïn Ferah", "Aïn Frass", "Alaimia",
+      "Aouf", "Benian", "Bou Hanifia", "Chorfa", "El Bordj", "El Gaada",
+      "El Ghomri", "Ghriss", "El Guettana", "Hachem", "El Keurt",
+      "Khalouia", "Mamounia", "Mascara", "Mohammadia", "Nesmot",
+      "Oggaz", "Oued El Abtal", "Oued Taria", "Ras El Aïn Amirouche",
+      "Sedjerara", "Sidi Abdeldjebar", "Sidi Abdelmoumen", "Sidi Kada",
+      "Sig", "Tighennif", "Tizi", "Zahana", "Zelamta"
+    ]
+  },
+  {
+    "name": "Ouargla",
+    "code": 30,
+    "communes": [
+      "Ouargla", "Hassi Messaoud", "Rouissat", "N'Goussa", "Hassi Ben Abdellah",
+      "Aïn Beida", "Balidat Ameur", "Benaceur", "El Hadjira", "Hassi Messaoud",
+      "M'Naguer", "N'Goussa", "Ouargla", "Rouissat", "Sidi Khouiled",
+      "Taibet", "Tebesbest"
+    ]
+  },
+  {
+    "name": "Oran",
+    "code": 31,
+    "communes": [
+      "Oran", "Bir El Djir", "Es Senia", "Arzew", "Bethioua", "Aïn El Turk",
+      "El Ançor", "Gdyel", "Hassi Bounif", "Hassi Ben Okba", "Mers El Kébir",
+      "Misserghin", "Oued Tlelat", "Sidi Chami", "Sidi Ben Yebka",
+      "Tafraoui", "Boufatis", "El Braya", "El Kerma", "Oran"
+    ]
+  },
+  {
+    "name": "El Bayadh",
+    "code": 32,
+    "communes": [
+      "El Bayadh", "Brezina", "Chellala", "Rogassa", "Boualem", "Bougtoub",
+      "Boussemghoun", "Cheguig", "El Abiodh Sidi Cheikh", "El Bnoud",
+      "Kef El Ahmar", "Rogassa", "Sidi Ameur", "Sidi Slimane",
+      "Sidi Tifour", "Stitten", "Tousmouline"
+    ]
+  },
+  {
+    "name": "Illizi",
+    "code": 33,
+    "communes": [
+      "Illizi", "Djanet", "In Amenas", "Bordj Omar Driss", "Debdeb",
+      "Illizi", "In Amenas", "Djanet"
+    ]
+  },
+  {
+    "name": "Bordj Bou Arreridj",
+    "code": 34,
+    "communes": [
+      "Bordj Bou Arreridj", "Ras El Oued", "Bir Kasdali", "Mansoura",
+      "El Hamadia", "Bordj Ghedir", "Bordj Zemmoura", "Colla", "Djaafra",
+      "El Ach", "El Anasser", "El Main", "El M'Hir", "Ghailasa",
+      "Haraza", "Hasnaoua", "Khelil", "Medjana", "Ouled Brahem",
+      "Ouled Dahmane", "Ouled Sidi Brahim", "Rabta", "Salma", "Taglait",
+      "Teniet En Nasr", "Tixter", "Tassamert"
+    ]
+  },
+  {
+    "name": "Boumerdès",
+    "code": 35,
+    "communes": [
+      "Boumerdès", "Dellys", "Thenia", "Boudouaou", "Isser", "Khemis El Khechna",
+      "Bordj Menaïel", "Baghlia", "Bouzegza Keddara", "Chabet El Ameur",
+      "Corso", "Dellys", "Hammedi", "Leghata", "Naciria", "Ouled Aissa",
+      "Ouled Hedadj", "Ouled Moussa", "Si Mustapha", "Sidi Daoud",
+      "Thenia", "Timezrit", "Zemmouri"
+    ]
+  },
+  {
+    "name": "El Tarf",
+    "code": 36,
+    "communes": [
+      "El Tarf", "Bouhadjar", "Ben M'Hidi", "Besbes", "Bougous", "Bouhlou",
+      "Bouteldja", "Chebaita Mokhtar", "Chihani", "Dréan", "Echatt",
+      "El Aioun", "El Kala", "El Tarf", "Hammam Beni Salah", "Lac des Oiseaux",
+      "Oued Zitoun", "Raml Souk", "Souarekh", "Zerizer", "Zitouna"
+    ]
+  },
+  {
+    "name": "Tindouf",
+    "code": 37,
+    "communes": [
+      "Tindouf", "Oum El Assel"
+    ]
+  },
+  {
+    "name": "Tissemsilt",
+    "code": 38,
+    "communes": [
+      "Tissemsilt", "Theniet El Had", "Lazharia", "Bordj Bounaama",
+      "Beni Chaib", "Khemisti", "Ammari", "Bordj El Emir Abdelkader",
+      "Boucaid", "Laayoune", "Larbaa", "Lardjem", "Layoune", "Maacem",
+      "Melaab", "Ouled Bessem", "Sidi Abed", "Sidi Boutouchent",
+      "Sidi Lantri", "Tamellahet", "Théniet El Had", "Youssoufia"
+    ]
+  },
+  {
+    "name": "El Oued",
+    "code": 39,
+    "communes": [
+      "El Oued", "Robbah", "Bayadha", "Debila", "Djamaa", "Guemar",
+      "Hassi Khalifa", "Kouinine", "Magrane", "Mih Ouensa", "M'Rara",
+      "Nakhla", "Oued El Alenda", "Ourmes", "Reguiba", "Sidi Aoun",
+      "Sidi Amrane", "Still", "Taghzout", "Taleb Larbi", "Tendla",
+      "Trifaoui"
+    ]
+  },
+  {
+    "name": "Khenchela",
+    "code": 40,
+    "communes": [
+      "Khenchela", "Babar", "Chechar", "El Hamma", "Ensigha", "Kais",
+      "Bouhmama", "El Mahmal", "Tamza", "Yabous", "Aïn Touila",
+      "Chelia", "Djellal", "Khirane", "M'Sara", "Remila", "Taouzianat"
+    ]
+  },
+  {
+    "name": "Souk Ahras",
+    "code": 41,
+    "communes": [
+      "Souk Ahras", "Sedrata", "Hanancha", "Mechroha", "Ouled Driss",
+      "Oum El Adhaïm", "Bir Bouhouche", "Drea", "Haddada", "Khedara",
+      "Khemissa", "M'Daourouche", "Merahna", "Oued Keberit",
+      "Ragouba", "Safel El Ouiden", "Sidi Fredj", "Terraguelt",
+      "Tiffech", "Zaarouria"
+    ]
+  },
+  {
+    "name": "Tipaza",
+    "code": 42,
+    "communes": [
+      "Tipaza", "Cherchell", "Damous", "Fouka", "Gouraya", "Hadjout",
+      "Kolea", "Larhat", "Sidi Amar", "Aghbal", "Ahmar El Ain",
+      "Attatba", "Beni Milleuk", "Bou Haroun", "Bou Ismail",
+      "Bourkika", "Chaiba", "Cherchell", "Damous", "Douaouda",
+      "Fouka", "Gouraya", "Hadjeret Ennous", "Hadjout", "Khemisti",
+      "Kolea", "Larhat", "Menaceur", "Merad", "Nador", "Sidi Ghiles",
+      "Sidi Rached", "Sidi Semiane", "Tipaza"
+    ]
+  },
+  {
+    "name": "Mila",
+    "code": 43,
+    "communes": [
+      "Mila", "Ferdjioua", "Grarem Gouga", "Rouached", "Teleghma",
+      "Terrai Bainen", "Ahmed Rachedi", "Aïn Beida Harriche",
+      "Aïn Mellouk", "Aïn Tine", "Amira Arras", "Benyahia Abderrahmane",
+      "Bouhatem", "Chelghoum Laid", "Chigara", "Derrahi Bousselah",
+      "El Mechira", "Elayadi Barbes", "Ferdjioua", "Grarem Gouga",
+      "Hamala", "Mila", "Minar Zarza", "Oued Athmenia", "Oued Endja",
+      "Oued Seguen", "Ouled Khalouf", "Rouached", "Sidi Khelifa",
+      "Sidi Merouane", "Tadjenanet", "Tassadane Haddada", "Teleghma",
+      "Terrai Bainen", "Tessala Lemtaï", "Tiberguent", "Yahia Beni Guecha",
+      "Zeghaia"
+    ]
+  },
+  {
+    "name": "Aïn Defla",
+    "code": 44,
+    "communes": [
+      "Aïn Defla", "Miliana", "Khemis Miliana", "Bordj Emir Khaled",
+      "Djelida", "El Amra", "El Attaf", "Bathia", "Belaas", "Ben Allal",
+      "Birbouche", "Boumedfaa", "Bourached", "Djemaa Ouled Cheikh",
+      "Djemaa Ouled Cheikh", "El Abadia", "El Oued", "Hammam Righa",
+      "Hoceinia", "Mekhatria", "Rouina", "Sidi Lakhdar", "Tacheta Zegagha",
+      "Tarik Ibn Ziad", "Tiberkanine", "Zeddine"
+    ]
+  },
+  {
+    "name": "Naâma",
+    "code": 45,
+    "communes": [
+      "Naâma", "Mechria", "Aïn Sefra", "Asla", "Moghrar", "Sfissifa",
+      "Tiout", "Aïn Ben Khelil", "Kasdir", "Makmen Ben Amar", "Mecheria"
+    ]
+  },
+  {
+    "name": "Aïn Témouchent",
+    "code": 46,
+    "communes": [
+      "Aïn Témouchent", "Beni Saf", "El Malah", "Hammam Bou Hadjar",
+      "Oulhaca El Gheraba", "Aïn El Arbaa", "Aïn Kihal", "Aïn Tolba",
+      "Bouzedjar", "Chaabat El Leham", "Chentouf", "El Amria",
+      "El Emir Abdelkader", "Hassasna", "Hassi El Ghella", "Oued Berkeche",
+      "Oued Sabah", "Ouled Boudjemaa", "Ouled Kihal", "Sidi Ben Adda",
+      "Sidi Boumediene", "Sidi Ouriache", "Terga"
+    ]
+  },
+  {
+    "name": "Ghardaïa",
+    "code": 47,
+    "communes": [
+      "Ghardaïa", "El Atteuf", "Beni Isguen", "Bounoura", "Dayat Ben Dahoua",
+      "El Guerrara", "Mansoura", "Metlili", "Sebseb", "Zelfana",
+      "Berriane", "Bounoura", "Dhayet Bendhahoua", "El Atteuf",
+      "El Guerrara", "Ghardaia", "Hassi Fehal", "Hassi Gara",
+      "Mansoura", "Metlili", "Sebseb", "Zelfana"
+    ]
+  },
+  {
+    "name": "Relizane",
+    "code": 48,
+    "communes": [
+      "Relizane", "Oued Rhiou", "Zemmoura", "Djidiouia", "El Hamadna",
+      "Sidi M'Hamed Ben Ali", "Aïn Tarek", "Ammi Moussa", "Bendaoud",
+      "Beni Dergoun", "Beni Zentis", "Dar Ben Abdellah", "El Guettar",
+      "El Matmar", "Had Echkalla", "Hamri", "Kalaa", "Lahlef",
+      "Mazouna", "Merdja Sidi Abed", "Oued Essalem", "Ouarizane",
+      "Ouled Aiche", "Ouled Sidi Mihoub", "Ramka", "Relizane",
+      "Sidi Khettab", "Sidi Lazreg", "Sidi M'Hamed Ben Aouda",
+      "Soumâa", "Yellel", "Zemmoura"
+    ]
+  },
+  {
+    "name": "Timimoun",
+    "code": 49,
+    "communes": [
+      "Timimoun", "Ouled Saïd", "Aougrout", "Talmine", "Charouine",
+      "Deldoul", "Metarfa", "Tinerkouk"
+    ]
+  },
+  {
+    "name": "Bordj Badji Mokhtar",
+    "code": 50,
+    "communes": [
+      "Bordj Badji Mokhtar", "Timiaouine"
+    ]
+  },
+  {
+    "name": "Ouled Djellal",
+    "code": 51,
+    "communes": [
+      "Ouled Djellal", "Doucen", "Sidi Khaled", "Ras El Miad", "Besbes",
+      "El Meghaier", "Châaba"
+    ]
+  },
+  {
+    "name": "Béni Abbès",
+    "code": 52,
+    "communes": [
+      "Béni Abbès", "Igli", "Ouled Khodeïr", "Kerzaz", "Tamtert",
+      "El Ouata", "Tabalbala"
+    ]
+  },
+  {
+    "name": "In Salah",
+    "code": 53,
+    "communes": [
+      "In Salah", "Foggaret Ezzoua", "In Ghar"
+    ]
+  },
+  {
+    "name": "In Guezzam",
+    "code": 54,
+    "communes": [
+      "In Guezzam", "Tin Zaouatine"
+    ]
+  },
+  {
+    "name": "Touggourt",
+    "code": 55,
+    "communes": [
+      "Touggourt", "Nezla", "Taibet", "Tamacine", "Benaceur",
+      "M'Naguer", "Zaouia El Abidia", "Sidi Slimane", "El Alia"
+    ]
+  },
+  {
+    "name": "Djanet",
+    "code": 56,
+    "communes": [
+      "Djanet", "Bordj El Haouas"
+    ]
+  },
+  {
+    "name": "El M'Ghair",
+    "code": 57,
+    "communes": [
+      "El M'Ghair", "Oum Touyour", "Sidi Amrane", "Tenedla", "Still",
+      "M'Rara", "Beni Selah"
+    ]
+  },
+  {
+    "name": "El Menia",
+    "code": 58,
+    "communes": [
+      "El Menia", "Hassi Gara", "Mansoura", "El Allia", "Hassi Fehal"
+    ]
+  }
+]
