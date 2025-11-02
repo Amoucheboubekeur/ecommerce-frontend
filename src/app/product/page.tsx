@@ -92,7 +92,7 @@ export default function ProductsPage() {
             className="border rounded-lg p-4 shadow hover:shadow-lg transition"
           >
             <img
-              src={"https://ecommercebackend-h973.onrender.com"+p.imageUrl || "/placeholder.png"}
+              src={"https://ecommercebackend-h973.onrender.com/"+p.imageUrl || "/placeholder.png"}
               alt={p.title}
               className="w-full h-40 object-cover mb-3 rounded"
             />
